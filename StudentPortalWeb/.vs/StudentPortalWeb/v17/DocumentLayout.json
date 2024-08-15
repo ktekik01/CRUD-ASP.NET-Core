@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|c:\\users\\kerem\\source\\repos\\new folder\\crud-asp.net-core\\studentportalweb\\studentportalweb\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|solutionrelative:studentportalweb\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|c:\\users\\kerem\\source\\repos\\new folder\\crud-asp.net-core\\studentportalweb\\studentportalweb\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|solutionrelative:studentportalweb\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|c:\\users\\kerem\\source\\repos\\new folder\\crud-asp.net-core\\studentportalweb\\studentportalweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|solutionrelative:studentportalweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|c:\\users\\kerem\\source\\repos\\new folder\\crud-asp.net-core\\studentportalweb\\studentportalweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|solutionrelative:studentportalweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|c:\\users\\kerem\\source\\repos\\new folder\\crud-asp.net-core\\studentportalweb\\studentportalweb\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|solutionrelative:studentportalweb\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|c:\\users\\kerem\\source\\repos\\new folder\\crud-asp.net-core\\studentportalweb\\studentportalweb\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|solutionrelative:studentportalweb\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|c:\\users\\kerem\\source\\repos\\new folder\\crud-asp.net-core\\studentportalweb\\studentportalweb\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|solutionrelative:studentportalweb\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|c:\\users\\kerem\\source\\repos\\new folder\\crud-asp.net-core\\studentportalweb\\studentportalweb\\migrations\\20240815101305_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|solutionrelative:studentportalweb\\migrations\\20240815101305_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|c:\\users\\kerem\\source\\repos\\new folder\\crud-asp.net-core\\studentportalweb\\studentportalweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|solutionrelative:studentportalweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|c:\\users\\kerem\\source\\repos\\new folder\\crud-asp.net-core\\studentportalweb\\studentportalweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|solutionrelative:studentportalweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|c:\\users\\kerem\\source\\repos\\new folder\\crud-asp.net-core\\studentportalweb\\studentportalweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|solutionrelative:studentportalweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|c:\\users\\kerem\\source\\repos\\new folder\\crud-asp.net-core\\studentportalweb\\studentportalweb\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|solutionrelative:studentportalweb\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|c:\\users\\kerem\\source\\repos\\new folder\\crud-asp.net-core\\studentportalweb\\studentportalweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858E48F-E5FA-4E8B-80D2-14DFAF469E17}|StudentPortalWeb\\StudentPortalWeb.csproj|solutionrelative:studentportalweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentPortalWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T12:36:51.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "StudentPortalWeb\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T11:54:24.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentPortalWeb\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T10:57:48.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Views\\Students\\List.cshtml",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\Views\\Students\\List.cshtml",
+              "ToolTip": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Views\\Students\\List.cshtml",
+              "RelativeToolTip": "StudentPortalWeb\\Views\\Students\\List.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T11:42:50.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240815101305_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Migrations\\20240815101305_Initial Migration.cs",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\Migrations\\20240815101305_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Migrations\\20240815101305_Initial Migration.cs",
+              "RelativeToolTip": "StudentPortalWeb\\Migrations\\20240815101305_Initial Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T10:43:12.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentPortalWeb\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T09:01:50.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentPortalWeb\\Models\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T09:06:05.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Views\\Students\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\Views\\Students\\Add.cshtml",
+              "ToolTip": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Views\\Students\\Add.cshtml",
+              "RelativeToolTip": "StudentPortalWeb\\Views\\Students\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T10:59:07.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentPortalWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T12:40:34.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "StudentPortalWeb\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T12:40:37.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "StudentPortalWeb\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:12:34.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\appsettings.json",
+              "RelativeToolTip": "StudentPortalWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T09:13:28.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Program.cs",
+              "RelativeDocumentMoniker": "StudentPortalWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\KEREM\\source\\repos\\New folder\\CRUD-ASP.NET-Core\\StudentPortalWeb\\StudentPortalWeb\\Program.cs",
+              "RelativeToolTip": "StudentPortalWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T09:10:26.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
